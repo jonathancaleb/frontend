@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.env
+INTEGRATION_GUIDE.md
+.DS_Store      
